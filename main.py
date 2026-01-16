@@ -19,5 +19,15 @@ def divide():
 
 
 
+def name():
+    pass
+
+
+
+def age():
+    pass
+
+
+
 if __name__ == "__main__":
     main()

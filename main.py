@@ -29,5 +29,13 @@ def age():
 
 
 
+def mark():
+    pass
+
+
+def phone():
+    pass
+
+
 if __name__ == "__main__":
     main()

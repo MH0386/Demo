@@ -8,15 +8,33 @@ def add():
 
 
 
-def add2():
+def mulitply():
     pass
 
 
 
-def add3():
+def divide():
     pass
 
 
+
+
+def name():
+    pass
+
+
+
+def age():
+    pass
+
+
+
+def mark():
+    pass
+
+
+def phone():
+    pass
 
 
 if __name__ == "__main__":

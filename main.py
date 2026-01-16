@@ -8,12 +8,12 @@ def add():
 
 
 
-def add2():
+def mulitply():
     pass
 
 
 
-def add3():
+def divide():
     pass
 
 

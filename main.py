@@ -8,14 +8,26 @@ def add():
 
 
 
-def add2():
+def sum_2():
     pass
 
 
 
-def add3():
+def sum_3():
     pass
 
+
+
+
+def sum_4():
+    pass
+
+
+
+
+
+def sum_5():
+    pass
 
 
 

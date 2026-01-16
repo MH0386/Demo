@@ -6,19 +6,18 @@ def main():
 
 def add():
     "Add numbers"
-    pass
 
 
 
 def add2():
     "Add numbers"
-    pass
+    
 
 
 
 def add3():
     "Add numbers"
-    pass
+    
 
 
 
